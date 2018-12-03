@@ -1,0 +1,47 @@
+body {
+	background: url(../images/bg1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;color: "white";
+}
+h1 {
+	color: MediumSeaGreen;
+	font-size: 50px;
+	text-decoration: underline;
+	font-weight: bold;
+    margin-bottom: 0;
+
+}
+h2 {
+	color: yellow;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 0;
+
+}
+.bio {
+	color: yellow;
+	font-size: 16px;
+
+}
+.me {
+	height: 250px;
+	border-radius: 300%;
+	border-style: solid;
+	border-color: yellow;
+	margin-top: 100px;
+
+}
+.about {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: yellow;
+
+}
+
+
+
